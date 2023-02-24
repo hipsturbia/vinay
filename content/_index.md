@@ -12,22 +12,22 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:
-  - block: features
-    content:
-      title: Skills
-      items:
-        - name: R
-          description: 90%
-          icon: r-project
-          icon_pack: fab
-        - name: Statistics
-          description: 100%
-          icon: chart-line
-          icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
-          icon_pack: fas
+  # - block: features
+   # content:
+# title: Skills
+#   items:
+#     - name: R
+#       description: 90%
+#  icon: r-project
+#    icon_pack: fab
+   #     - name: Statistics
+  #    description: 100%
+ #       icon: chart-line
+ #      icon_pack: fas
+#    - name: Photography
+  #       description: 10%
+ #    icon: camera-retro
+  #     icon_pack: fas
   - block: experience
     content:
       title: Experience
@@ -40,11 +40,11 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Vice President - Social Affairs
+          company: Graduate Student Council (GSC) - Vanderbilt University 
           company_url: ''
           company_logo: org-gc
-          location: California
+          location: Nashville
           date_start: '2021-01-01'
           date_end: ''
           description: |2-
@@ -53,11 +53,19 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Graduate Research Assistant
+          company: Vanderbilt University School of Engineering
           company_url: ''
           company_logo: org-x
           location: California
+          date_start: '2016-01-01'
+          date_end: '2020-12-31'
+          description: Taught electronic engineering and researched semiconductor physics.
+          - title: Graduate Research Assistant
+          company: Tennessee Technological University 
+          company_url: ''
+          company_logo: org-x
+          location: Cookeville
           date_start: '2016-01-01'
           date_end: '2020-12-31'
           description: Taught electronic engineering and researched semiconductor physics.
