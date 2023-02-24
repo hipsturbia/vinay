@@ -19,7 +19,7 @@ role: PhD Student
 # Organizations/Affiliations to show in About widget
 organizations:
  - name: Vanderbilt University
-    url: https://www.vanderbilt.edu/
+    # url: https://www.vanderbilt.edu
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Risk Assessment, Modelling and Simulation, and Water Resource Management
