@@ -79,5 +79,4 @@ email: ''
 highlight_name: true
 ---
 Vinay Anand Dhanvada is a second-year PhD student at Vanderbilt University in Nashville, TN. His currently working in the VECTOR group, which is under the leadership of Dr. Janey Camp. His research focuses on the risk assessment of Water Treatment Plants, WTP Operator knowledge transfer, and issues related to T&O in the WTPs. His current research focuses on developing risk-information methods to build WTPs that are resilient to climate change, surface water temperatures, and T&O issues. His personal attributes include leadership and sound judgment as well as creativity, and analytical/troubleshooting skills. He also has a history of quality work carried to timely completion.
-
 {style="text-align: justify;"}
