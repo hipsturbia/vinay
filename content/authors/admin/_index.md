@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Vinay Anand Dhanvada వినయ్ ఆనంద్ ధనవాడ
+title: Vinay Anand Dhanvada
 
 # Full name (for SEO)
 first_name: Vinay Anand
