@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Vinay Anand Dhanvada వినయ్ ఆనంద్ ధనవాడ
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Vinay Anand
+last_name: Dhanvada
 
 # Status emoji
 status:
