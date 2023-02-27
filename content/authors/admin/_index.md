@@ -35,7 +35,7 @@ interests:
 education:
   courses:
     - course: PhD in Civil Engineering
-      institution: Stanford University
+      institution: Vanderbilt University
       year: Currently Pursuing
     - course: Masters in Water Resources Engineering
       institution: Tennessee Tech University
@@ -61,7 +61,7 @@ social:
     link: https://scholar.google.com/citations?user=J5XqitoAAAAJ&hl=en
    # - icon: github
    # icon_pack: fab
-   # link: https://github.com/gcushen
+   # link: https://github.com/dhanvav
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/vinay-anand-d-70a30748/
