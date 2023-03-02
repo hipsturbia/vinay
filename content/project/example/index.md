@@ -1,6 +1,6 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: T&O Issues and WTP Operators workforce management in water treatment plants
+summary: Associated with Vanderbilt University School of Engineering. A survey to understand the aging workforce knowledge transfer mechanism, supply chain issues related to activated carbon, and the impact of climate change on the surface water temperature anomalies affecting the water quality in source water.
 tags:
   - Deep Learning
 date: '2016-04-27T00:00:00Z'
@@ -16,7 +16,7 @@ links:
   - icon: twitter
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/georgecushen
+    url: ''
 url_code: ''
 url_pdf: ''
 url_slides: ''
